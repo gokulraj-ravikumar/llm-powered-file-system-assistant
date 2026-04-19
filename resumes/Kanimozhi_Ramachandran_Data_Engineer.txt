@@ -1,0 +1,23 @@
+Kanimozhi Ramachandran
+Data Engineer
+
+Contact Info:
+Email: kanimozhi@example.com
+GitHub: github.com/kanimozhi_dev
+
+Professional Summary:
+Driven Data Engineer with 4+ years of experience working at Tech Mahindra. 
+Passionate about building scalable solutions and writing clean, maintainable code.
+
+Technical Skills:
+Apache Spark, Hadoop, Airflow, Snowflake
+
+Experience:
+Data Engineer at Tech Mahindra (2020 - Present)
+- Designed and implemented core features using Apache Spark.
+- Collaborated with cross-functional teams to deliver high-quality software.
+- Optimized performance and resolved critical bugs in production.
+
+Education:
+B.Tech in Computer Science
+Anna University, Chennai | 2019

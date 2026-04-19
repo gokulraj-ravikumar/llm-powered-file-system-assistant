@@ -1,0 +1,23 @@
+Dinesh Subramanian
+iOS Developer
+
+Contact Info:
+Email: dinesh@example.com
+GitHub: github.com/dinesh_dev
+
+Professional Summary:
+Driven iOS Developer with 4+ years of experience working at TCS. 
+Passionate about building scalable solutions and writing clean, maintainable code.
+
+Technical Skills:
+Swift, CoreData, XCTest, iOS SDK
+
+Experience:
+iOS Developer at TCS (2020 - Present)
+- Designed and implemented core features using Swift.
+- Collaborated with cross-functional teams to deliver high-quality software.
+- Optimized performance and resolved critical bugs in production.
+
+Education:
+B.Tech in Computer Science
+Anna University, Chennai | 2019

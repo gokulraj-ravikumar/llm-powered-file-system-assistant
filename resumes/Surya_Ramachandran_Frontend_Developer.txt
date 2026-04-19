@@ -1,0 +1,23 @@
+Surya Ramachandran
+Frontend Developer
+
+Contact Info:
+Email: surya@example.com
+GitHub: github.com/surya_dev
+
+Professional Summary:
+Driven Frontend Developer with 4+ years of experience working at Freshworks. 
+Passionate about building scalable solutions and writing clean, maintainable code.
+
+Technical Skills:
+React.js, JavaScript, TypeScript, Tailwind CSS
+
+Experience:
+Frontend Developer at Freshworks (2020 - Present)
+- Designed and implemented core features using React.js.
+- Collaborated with cross-functional teams to deliver high-quality software.
+- Optimized performance and resolved critical bugs in production.
+
+Education:
+B.Tech in Computer Science
+Anna University, Chennai | 2019

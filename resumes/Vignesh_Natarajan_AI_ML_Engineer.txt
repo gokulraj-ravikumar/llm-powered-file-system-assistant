@@ -1,0 +1,23 @@
+Vignesh Natarajan
+AI_ML Engineer
+
+Contact Info:
+Email: vignesh@example.com
+GitHub: github.com/vignesh_dev
+
+Professional Summary:
+Driven AI_ML Engineer with 4+ years of experience working at Tech Mahindra. 
+Passionate about building scalable solutions and writing clean, maintainable code.
+
+Technical Skills:
+PyTorch, TensorFlow, Scikit-Learn, NLP, LLMs
+
+Experience:
+AI_ML Engineer at Tech Mahindra (2020 - Present)
+- Designed and implemented core features using PyTorch.
+- Collaborated with cross-functional teams to deliver high-quality software.
+- Optimized performance and resolved critical bugs in production.
+
+Education:
+B.Tech in Computer Science
+Anna University, Chennai | 2019

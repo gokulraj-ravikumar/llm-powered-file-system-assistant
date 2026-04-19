@@ -1,0 +1,23 @@
+Murugan S.
+Cloud Architect
+
+Contact Info:
+Email: murugan@example.com
+GitHub: github.com/murugan_dev
+
+Professional Summary:
+Driven Cloud Architect with 4+ years of experience working at Zoho. 
+Passionate about building scalable solutions and writing clean, maintainable code.
+
+Technical Skills:
+AWS, Azure, GCP, Serverless Computing
+
+Experience:
+Cloud Architect at Zoho (2020 - Present)
+- Designed and implemented core features using AWS.
+- Collaborated with cross-functional teams to deliver high-quality software.
+- Optimized performance and resolved critical bugs in production.
+
+Education:
+B.Tech in Computer Science
+Anna University, Chennai | 2019

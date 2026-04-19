@@ -1,0 +1,23 @@
+Priya Ramachandran
+Java Developer
+
+Contact Info:
+Email: priya@example.com
+GitHub: github.com/priya_dev
+
+Professional Summary:
+Driven Java Developer with 4+ years of experience working at Wipro. 
+Passionate about building scalable solutions and writing clean, maintainable code.
+
+Technical Skills:
+Java 17, Spring Boot, Microservices, Hibernate
+
+Experience:
+Java Developer at Wipro (2020 - Present)
+- Designed and implemented core features using Java 17.
+- Collaborated with cross-functional teams to deliver high-quality software.
+- Optimized performance and resolved critical bugs in production.
+
+Education:
+B.Tech in Computer Science
+Anna University, Chennai | 2019
